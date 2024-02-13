@@ -24,4 +24,4 @@ To install Natural Language Toolkit:
 
 2- Open the code with Jupyter Notebook.
 
-3- Run all cells.
+3- Run all cells. 
