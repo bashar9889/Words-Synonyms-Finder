@@ -1,5 +1,4 @@
 # Words-Synonyms-Finder
-# 472_Assigment2
 ## Before Running the Code
 Install the following modules if not previously done.
 
